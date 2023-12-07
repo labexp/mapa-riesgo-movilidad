@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","id":"way/373852186","properties":{"id":"way/373852186"},"geometry":{"type":"LineString","coordinates":[[-84.207508,10.0132946],[-84.2074763,10.0131835],[-84.2074587,10.0131214]]}},
+{"type":"Feature","id":"way/375000805","properties":{"id":"way/375000805","name":"Avenida 11A"},"geometry":{"type":"LineString","coordinates":[[-84.2195124,10.0202709],[-84.2194297,10.0202977],[-84.2192014,10.0203411],[-84.2188085,10.020394],[-84.2185879,10.0204027]]}},
+{"type":"Feature","id":"way/549642405","properties":{"id":"way/549642405"},"geometry":{"type":"LineString","coordinates":[[-84.2143248,10.0136524],[-84.2139654,10.0137312],[-84.2140295,10.0139714]]}},
+{"type":"Feature","id":"way/646144741","properties":{"id":"way/646144741"},"geometry":{"type":"LineString","coordinates":[[-84.2071463,10.0132029],[-84.2074587,10.0131214]]}},
+{"type":"Feature","id":"way/988339346","properties":{"id":"way/988339346","name":"Calle 8 La Estación"},"geometry":{"type":"LineString","coordinates":[[-84.216589,10.0149086],[-84.2165453,10.0147552]]}},
+{"type":"Feature","id":"way/1126243159","properties":{"id":"way/1126243159","name":"Calle 10 León Fernández"},"geometry":{"type":"LineString","coordinates":[[-84.2173178,10.0142107],[-84.2173286,10.0142474],[-84.2174127,10.0145468]]}},
+{"type":"Feature","id":"way/1179792687","properties":{"id":"way/1179792687","name":"Calle 8 La Estación"},"geometry":{"type":"LineString","coordinates":[[-84.216699,10.0152951],[-84.2165947,10.0149285],[-84.216589,10.0149086]]}},
+{"type":"Feature","id":"way/1179792688","properties":{"id":"way/1179792688","name":"Calle 10 León Fernández"},"geometry":{"type":"LineString","coordinates":[[-84.2174127,10.0145468],[-84.2174559,10.0147046]]}},
+{"type":"Feature","id":"way/1203667435","properties":{"id":"way/1203667435"},"geometry":{"type":"LineString","coordinates":[[-84.2140295,10.0139714],[-84.2140826,10.0141701]]}},
+{"type":"Feature","id":"way/1207582564","properties":{"id":"way/1207582564","name":"Calle 8 La Estación"},"geometry":{"type":"LineString","coordinates":[[-84.2165453,10.0147552],[-84.2164572,10.0144481]]}}]}
